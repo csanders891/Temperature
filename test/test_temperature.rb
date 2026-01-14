@@ -1,5 +1,7 @@
+require './minitest/autorun'
+require './temperature.rb'
 
-class Temperature
+class Temperature < Minitest::Test
     def celsius(f)
         C = (f - 32) *5/9
     end
