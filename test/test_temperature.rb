@@ -7,6 +7,6 @@ class Temperature < Minitest::Test
     end
 
     def kelvin(c)
-        K = @celsius + 273
+        K = @celsius + 273c
     end
 end
