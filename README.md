@@ -1,2 +1,2 @@
-# Temperature
-My CPI application converts a Fahrenheit temperature to Celsius and then from Celsius to Kelvin.
+# Paper Rock Scissors
+My CPI application demonstrates a game of "Paper Rock Scissors".
